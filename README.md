@@ -9,3 +9,7 @@ Es un proyecto dedicado al crecimiento de comunidad universitaria a traves de un
 [Uso]
 
 [Documentacion]
+
+[Roadmap]
+
+[Licencia]
